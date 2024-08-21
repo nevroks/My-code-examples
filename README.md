@@ -2,7 +2,7 @@
 
 Примеры кода(Информация для технических специалистов):
 
-GitHub репозитории: https://github.com/nevroks?tab=repositories
+GitHub репозитории: https://github.com/nevroks?tab=repositories <br/>
 Задачи и тех стек описаны внутри самих репозиториев в ReadMe
 
 ******************************************
