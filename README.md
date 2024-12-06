@@ -10,4 +10,12 @@ Telegram mini app по типу "хомяка"/notcoin,коммерческий 
 
 Исходный код: https://github.com/nevroks/tg-mini-app
 
-Демо: Надо попросить
+Демо: Закрыто.
+
+******************************************
+Лендинг на нативе, есть много анимаций, на срколл, на drag and drop,коммерческий проект, выполнен не до конца так как были запрошены правки
+
+Исходный код: https://github.com/nevroks/banka-vanila
+
+Демо: https://nevroks.github.io/banka-vanila/
+
