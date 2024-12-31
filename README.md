@@ -18,4 +18,10 @@ Telegram mini app по типу "хомяка"/notcoin,коммерческий 
 Исходный код: https://github.com/nevroks/banka-vanila
 
 Демо: https://nevroks.github.io/banka-vanila/
+******************************************
+Тот же самый лендинг на нативе который пришлось за 5 дней абсолютно полностью переписывать, милион анимаций и всё без библеотек, кроме jquery
+
+Исходный код: https://github.com/nevroks/banka-vanila2
+
+Демо: https://gurtam-fortune.com/
 
